@@ -1,4 +1,7 @@
 # Java-Database-Interface
+# REQUIRES H2DATABASE
+
+https://h2database.com/html/main.html
 
 1) Team Members
    -Andrew Eller
